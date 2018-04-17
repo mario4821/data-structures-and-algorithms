@@ -8,4 +8,4 @@ Reverse the array without utilizing any of the built-in methods available to Jav
 
 ##Solution
 
-![](/assets/reverse-an-array.jpg)
+![reverse-array-solution](/reverse-an-array.jpg)
