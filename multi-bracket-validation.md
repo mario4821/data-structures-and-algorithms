@@ -12,4 +12,4 @@ Your function should take a string as its only arguement, and should return a bo
 
 ##Solution
 
-![multi-bracket-validation](/:assets/multi-bracket-validation.jpg)
+![multi-bracket-validation](/assets:/multi-bracket-validation.jpg)
