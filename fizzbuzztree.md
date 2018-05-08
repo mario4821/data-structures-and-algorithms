@@ -1,4 +1,4 @@
-# Multi Bracket Validation
+# Fizz Buzz Tree
 
 ##Challenge
 
